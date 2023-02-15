@@ -1,0 +1,17 @@
+name: ml-zoomcamp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.9
+  - pip:
+      - awscli==1.27.69
+      - jupyter==1.0.0
+      - keras==2.7.0
+      - keras-image-helper==0.0.1
+      - keras-preprocessing==1.1.2
+      - numpy==1.24.1
+      - pandas==1.5.2
+      - pillow==9.4.0
+      - tensorflow==2.7.0
