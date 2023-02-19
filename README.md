@@ -11,7 +11,7 @@ In this competition you need to classify images of different kitchenware items i
 - forks
 - knives
 
-I developed a **ResNet50-based CNN** model to detect **Kitchenware Items** and **deployed** it with **AWS Lambda**.
+Developed a **ResNet50-based CNN** model to classify **Kitchenware Items** and **deployed** it with **AWS Lambda**.
 
 - My ResNet CNN model that is developed notebook on Kaggle: [Kitchenware Classification Resnet50 | Kaggle](https://www.kaggle.com/code/ahmetekiz/kitchenware-classification-resnet50) (Private Score: 0.9418)
 
